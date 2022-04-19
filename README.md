@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krivinsky
+- 👋 Hi, I’m @Krivinsky Evgeny
 - 👀 I’m interested in fitness.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
