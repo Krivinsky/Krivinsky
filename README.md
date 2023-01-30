@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krivinsky Evgeny
-- 👀 I’m interested in fitness.
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Playa313@yandex.ru
