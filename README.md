@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krivinsky Evgeny
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Java, .NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Playa313@yandex.ru
 
